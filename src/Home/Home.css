@@ -1,0 +1,68 @@
+.pragraph{
+    color: rgb(187, 84, 101);
+}
+.heading h1{
+    font-size: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.normal{
+    color: rgba(140, 34, 226, 0.616);
+}
+
+.button{
+    background-color: rgba(241, 10, 164, 0.986);
+    color: white;
+}
+
+
+.point{
+    color: rgb(224, 28, 94);
+}
+
+
+
+
+.heading-compfort{
+    color: rgba(65, 13, 255, 0.815);
+}
+
+
+.border-design{
+    box-shadow: 1px 5px 5px rgb(150, 147, 147);
+    text-align: center;
+}
+
+
+
+/* background image  */
+
+.background-image{
+    background-color: rgba(30, 146, 146, 0.589);
+    width: 100%;
+    height: 50vh;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.detelis{
+display: inline-block;
+}
+
+
+.button-color{
+    display: inline-block;
+    background-color: rgba(241, 10, 164, 0.986);
+    color: white;
+    margin-top: 50px;
+}
+
+
+/* Card Detelis  */
+
+.card{
+border: 1px solid rgb(144, 150, 168) ;
+padding: 20px;
+}

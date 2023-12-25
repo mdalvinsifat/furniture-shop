@@ -1,0 +1,6 @@
+.product{
+    display: inline-block;
+    background-color: rgba(241, 10, 164, 0.986);
+    color: white;
+    margin-top: 50px;
+}
